@@ -2,20 +2,20 @@
 <testng-results total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-06-03T14:13:43Z" name="Suite" finished-at="2021-06-03T14:14:02Z" duration-ms="18867">
+  <suite started-at="2021-06-03T17:40:53Z" name="Suite" finished-at="2021-06-03T17:41:17Z" duration-ms="24347">
     <groups>
     </groups>
-    <test started-at="2021-06-03T14:13:43Z" name="Test" finished-at="2021-06-03T14:14:02Z" duration-ms="18867">
+    <test started-at="2021-06-03T17:40:53Z" name="Test" finished-at="2021-06-03T17:41:17Z" duration-ms="24347">
       <class name="testCases.TC_HomePage">
-        <test-method is-config="true" signature="initdriver()[pri:0, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T19:43:43Z" name="initdriver" finished-at="2021-06-03T19:43:54Z" duration-ms="10200" status="PASS">
+        <test-method is-config="true" signature="initdriver()[pri:0, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T23:10:53Z" name="initdriver" finished-at="2021-06-03T23:11:07Z" duration-ms="13840" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initdriver -->
-        <test-method signature="itemsrch()[pri:1, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T19:43:54Z" name="itemsrch" finished-at="2021-06-03T19:43:59Z" duration-ms="5753" status="PASS">
+        <test-method signature="itemsrch()[pri:1, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T23:11:07Z" name="itemsrch" finished-at="2021-06-03T23:11:14Z" duration-ms="6644" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- itemsrch -->
-        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T19:44:00Z" name="teardown" finished-at="2021-06-03T19:44:00Z" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T23:11:14Z" name="teardown" finished-at="2021-06-03T23:11:14Z" duration-ms="5" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method signature="mobilelst()[pri:2, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T19:44:00Z" name="mobilelst" finished-at="2021-06-03T19:44:01Z" duration-ms="1189" status="PASS">
+        <test-method signature="mobilelst()[pri:2, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T23:11:14Z" name="mobilelst" finished-at="2021-06-03T23:11:16Z" duration-ms="1980" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mobilelst -->
-        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T19:44:01Z" name="teardown" finished-at="2021-06-03T19:44:01Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T23:11:16Z" name="teardown" finished-at="2021-06-03T23:11:16Z" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,7 +41,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="closebrows()[pri:0, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T19:44:01Z" name="closebrows" finished-at="2021-06-03T19:44:02Z" duration-ms="992" status="PASS">
+        <test-method is-config="true" signature="closebrows()[pri:0, instance:testCases.TC_HomePage@4b6690c0]" started-at="2021-06-03T23:11:16Z" name="closebrows" finished-at="2021-06-03T23:11:17Z" duration-ms="1131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrows -->
