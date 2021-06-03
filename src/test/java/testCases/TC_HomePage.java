@@ -65,6 +65,8 @@ public class TC_HomePage extends utility {
 		for (int i = 0; i <= hp.srch().size() - 1; i++) {
 			System.out.println(hp.srch().get(i).getText());
 			System.out.println("********************************");
+			System.out.println("********************************");
+			System.out.println("********************************");
 			
 //			String path = utility.getScreenshot(driver);
 //
