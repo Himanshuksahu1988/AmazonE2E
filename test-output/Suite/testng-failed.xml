@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <listeners>
+    <listener class-name="testCases.Listeners"/>
+  </listeners>
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="testCases.TC_LoginPage">
+        <methods>
+          <include name="loginpage"/>
+        </methods>
+      </class> <!-- testCases.TC_LoginPage -->
+      <class name="testCases.TC_HomePage">
+        <methods>
+          <include name="teardown"/>
+          <include name="closebrows"/>
+          <include name="initdriver"/>
+        </methods>
+      </class> <!-- testCases.TC_HomePage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
