@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="21540" started-at="2021-05-30T11:17:48Z" finished-at="2021-05-30T11:18:10Z">
+  <suite name="Suite" duration-ms="18314" started-at="2021-06-04T00:56:18Z" finished-at="2021-06-04T00:56:36Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="21540" started-at="2021-05-30T11:17:48Z" finished-at="2021-05-30T11:18:10Z">
+    <test name="Test" duration-ms="18314" started-at="2021-06-04T00:56:18Z" finished-at="2021-06-04T00:56:36Z">
       <class name="testCases.TC_HomePage">
-        <test-method status="PASS" signature="initdriver()[pri:0, instance:testCases.TC_HomePage@564fabc8]" name="initdriver" is-config="true" duration-ms="11577" started-at="2021-05-30T16:47:48Z" finished-at="2021-05-30T16:48:00Z">
+        <test-method status="PASS" signature="initdriver()[pri:0, instance:testCases.TC_HomePage@564fabc8]" name="initdriver" is-config="true" duration-ms="8829" started-at="2021-06-04T06:26:18Z" finished-at="2021-06-04T06:26:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initdriver -->
-        <test-method status="PASS" signature="itemsrch()[pri:1, instance:testCases.TC_HomePage@564fabc8]" name="itemsrch" duration-ms="7914" started-at="2021-05-30T16:48:00Z" finished-at="2021-05-30T16:48:08Z">
+        <test-method status="PASS" signature="itemsrch()[pri:1, instance:testCases.TC_HomePage@564fabc8]" name="itemsrch" duration-ms="5948" started-at="2021-06-04T06:26:27Z" finished-at="2021-06-04T06:26:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- itemsrch -->
-        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:testCases.TC_HomePage@564fabc8]" name="teardown" is-config="true" duration-ms="6" started-at="2021-05-30T16:48:08Z" finished-at="2021-05-30T16:48:08Z">
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:testCases.TC_HomePage@564fabc8]" name="teardown" is-config="true" duration-ms="4" started-at="2021-06-04T06:26:34Z" finished-at="2021-06-04T06:26:34Z">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="mobilelst()[pri:2, instance:testCases.TC_HomePage@564fabc8]" name="mobilelst" duration-ms="42" started-at="2021-05-30T16:48:08Z" finished-at="2021-05-30T16:48:08Z">
+        <test-method status="PASS" signature="mobilelst()[pri:2, instance:testCases.TC_HomePage@564fabc8]" name="mobilelst" duration-ms="1326" started-at="2021-06-04T06:26:34Z" finished-at="2021-06-04T06:26:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mobilelst -->
-        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:testCases.TC_HomePage@564fabc8]" name="teardown" is-config="true" duration-ms="0" started-at="2021-05-30T16:48:09Z" finished-at="2021-05-30T16:48:09Z">
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:testCases.TC_HomePage@564fabc8]" name="teardown" is-config="true" duration-ms="0" started-at="2021-06-04T06:26:35Z" finished-at="2021-06-04T06:26:35Z">
           <params>
             <param index="0">
               <value>
@@ -41,7 +41,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="closebrows()[pri:0, instance:testCases.TC_HomePage@564fabc8]" name="closebrows" is-config="true" duration-ms="1138" started-at="2021-05-30T16:48:09Z" finished-at="2021-05-30T16:48:10Z">
+        <test-method status="PASS" signature="closebrows()[pri:0, instance:testCases.TC_HomePage@564fabc8]" name="closebrows" is-config="true" duration-ms="1058" started-at="2021-06-04T06:26:35Z" finished-at="2021-06-04T06:26:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrows -->
